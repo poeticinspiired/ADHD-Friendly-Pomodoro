@@ -1,3 +1,4 @@
+![494822985_1203223014626481_2141035630624977651_n](https://github.com/user-attachments/assets/3520d4ed-f03a-465e-86a3-9f81c78d7d1f)
 # ADHD-Friendly Pomodoro Timer
 
 A desktop Pomodoro timer application specifically designed to be ADHD-friendly, with customizable intervals, visual cues, and non-intrusive notifications.
